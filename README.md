@@ -30,4 +30,4 @@ The original task of estimating the risk of default has been  augmented  by  cre
 
 # Logistic Summary Report
 
-![alt text](https://github.com/[dopler47]/[case-study-banking-credit-risk-analytics]/blob/[master]/Logistic-summary.png?raw=true)
+![alt text](https://gitlab.com/dopler47/case-study-banking-credit-risk-analytics/-/blob/master/Logistic-summary.png)
