@@ -18,4 +18,4 @@ The original task of estimating the risk of default has been  augmented  by  cre
 - **creddebt** - _Credit to Debt ratio_
 - **othdebt** - _Other debts_
 
-- **default** - _Customer defaulted in the past (1= defaulted, 0=Never defaulted) _
+- **default** - _Customer defaulted in the past_ (1= defaulted, 0=Never defaulted)
