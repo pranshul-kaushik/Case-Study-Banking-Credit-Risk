@@ -27,3 +27,7 @@ The original task of estimating the risk of default has been  augmented  by  cre
 | 40 | 1 | 15 | 14 | 55 | 5.5 | 0.85 | 2.16 | 0 |
 | 41 | 1 | 15 | 14 | 120 | 2.9 | 2.65 | 0.82 | 0 |
 | 24 | 2 | 2 | 0 | 28 | 17.3 | 1.78 | 3.05 | 1 |
+
+# Logistic Summary Report
+
+![alt text](https://github.com/[dopler47]/[case-study-banking-credit-risk-analytics]/blob/[master]/Logistic-summary.png?raw=true)
