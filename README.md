@@ -31,3 +31,7 @@ The original task of estimating the risk of default has been  augmented  by  cre
 # Logistic Summary Report
 
 ![](Logistic-summary.png)
+
+# Logistic Evaluation Metric ( Area under the ROC )
+
+![](ROC_AUC.png)
