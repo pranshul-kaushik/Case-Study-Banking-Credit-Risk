@@ -9,13 +9,13 @@ The original task of estimating the risk of default has been  augmented  by  cre
 # Data Description
 
 
-- **age** - Age of Customer
-- **ed** - Eductation level of customer
-- **employ** -  Tenure with current employer (in years)
-- **address** -  Number of years in same address
-- **income** - Customer Income
-- **debtinc** - Debt to income ratio
-- **creddebt** - Credit to Debt ratio
-- **othdebt** - Other debts
+- **age** - _Age of Customer_
+- **ed** - _Eductation level of customer_
+- **employ** -  _Tenure with current employer (in years)_
+- **address** -  _Number of years in same address_
+- **income** - _Customer Income_
+- **debtinc** - _Debt to income ratio_
+- **creddebt** - _Credit to Debt ratio_
+- **othdebt** - _Other debts_
 
-- **default** - Customer defaulted in the past (1= defaulted, 0=Never defaulted) 
+- **default** - _Customer defaulted in the past (1= defaulted, 0=Never defaulted) _
