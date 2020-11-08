@@ -4,4 +4,4 @@ EDA and Predicting the future behavior of a new credit applicant by predicting l
 
 # BUSINESS OBJECTIVES:
 
-The original task of estimating the risk of default has been  augmented  by  credit  scoring  models  to  include  other  aspects  of  credit risk  management:  at  the  pre-application  stage  (identification  of  potential applicants),  at  the  application  stage  (identification  of  acceptable  applicants), and  at  the  performance  stage  (identification  of  possible  behavior  of  current customers).  Scoring  models  with  different  objectives  have  been  developed. They can be generalized into four categories as listed below. 
+The original task of estimating the risk of default has been  augmented  by  credit  scoring  models  to  include  other  aspects  of  credit risk  management:  at  the  pre-application  stage  _(identification  of  potential applicants)_,  at  the  application  stage  _(identification  of  acceptable  applicants)_, and  at  the  performance  stage  _(identification  of  possible  behavior  of  current customers)_.
